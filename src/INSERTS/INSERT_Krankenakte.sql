@@ -21,10 +21,10 @@ INSERT INTO Krankenakte(Aktenzeichen, Patientennummer)
 VALUES('IHRFLG', '7');
 
 INSERT INTO Krankenakte(Aktenzeichen, Patientennummer)
-VALUES('FHASOI', '8');
+VALUES('FAHSOI', '8');
 
 INSERT INTO Krankenakte(Aktenzeichen, Patientennummer)
-VALUES('UHRLOK', '9');
+VALUES('OHRLOK', '9');
 
 INSERT INTO Krankenakte(Aktenzeichen, Patientennummer)
 VALUES('OLWKLG', '10');
