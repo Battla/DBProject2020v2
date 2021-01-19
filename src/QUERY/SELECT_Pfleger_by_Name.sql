@@ -1,4 +1,4 @@
 USE krankenhaus;
-SELECT Station, sum(Gehalt) AS Stationsgehalt
+SELECT *
 FROM angestellter
-ORDER BY Station;
+WHERE Stellentyp = 'Pfleger' AND Nachname = 'Müller';
