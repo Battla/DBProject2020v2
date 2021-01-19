@@ -4,7 +4,7 @@ VALUES('Hannes', 'Kramer', 'Dr', 'Baumweg', 17, 49743, 'Arzt', 14, 1, '1988-05-1
 INSERT INTO arzt(PersonalSSN, Fachrichtung)
 VALUES(LAST_INSERT_ID(), 'Radiologie');
 INSERT INTO telefonnummer(Telefonnummer, SSN)
-VALUES('09512-458929',LAST_INSERT_ID());
+
 
 
 INSERT INTO angestellter(Vorname, Nachname, Titel, Strasse, Hausnummer, PLZ, Stellentyp, Gehalt, Station, Geburtsdatum, EMail)
