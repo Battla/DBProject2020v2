@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SELECT_Aerzte_Gehalt.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/src/QUERY/SELECT_Aerzte_Gehalt.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="9cf7869d-b946-47f5-a87c-a78a481cf162" namespace="schema/&quot;krankenhaus&quot;" />
+    <method v="2" />
+  </configuration>
+</component>

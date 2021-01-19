@@ -1,0 +1,27 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Angestellter.sql and 19 more" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Angestellter.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Arzt.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Arztbericht.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Beatmungsgeraet.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Betreut.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Geraete.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Krankenakte.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Krankenhaus.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/MRT.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Patient.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Pfleger.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Qualifikation.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Roentgengeraet.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Station.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Studentinfos.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/StudentischeHilfskraft.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Telefonnummer.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Untersuchung.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Verwaltung.sql" />
+    <script-file value="$PROJECT_DIR$/src/DATABASE/Zimmer.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="9cf7869d-b946-47f5-a87c-a78a481cf162" />
+    <method v="2" />
+  </configuration>
+</component>
