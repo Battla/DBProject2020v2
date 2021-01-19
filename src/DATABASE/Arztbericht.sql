@@ -2,7 +2,7 @@ USE Krankenhaus;
 
 CREATE TABLE IF NOT EXISTS Arztbericht(
     Fallnummer INT AUTO_INCREMENT,
-    Aktenzeichen VARCHAR(255),
+    Aktenzeichen VARCHAR(6),
     Datum DATE,
     Einweisung DATE,
     Diagnose VARCHAR(255),
