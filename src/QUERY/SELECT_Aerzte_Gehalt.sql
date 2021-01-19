@@ -1,4 +1,4 @@
-USE krankenhaus
+USE krankenhaus;
 SELECT Titel, Vorname, Nachname, Station, Fachrichtung, Gehalt
 FROM angestellter JOIN arzt
 WHERE arzt.PersonalSSN = angestellter.PersonalSSN
