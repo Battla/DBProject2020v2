@@ -3,7 +3,7 @@ USE krankenhaus;
 DROP TABLE IF EXISTS Zimmer;
 
 CREATE TABLE IF NOT EXISTS Zimmer(
-    Stationsnummer INT,
+    Stationsnummer INT ,
     Zimmernummer INT,
     Anz_Betten  INT,
     Belegte_Betten INT,

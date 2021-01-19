@@ -19,6 +19,5 @@ Bearbeitung der gestellten Aufgaben am Beispiel eines Krankenhauses
 - [ ] Relationale Algebra
 - [x] Schemadiagramm
     - [x] Normalisierung
-  
 -[ ] JDBC
 -[ ] PowerPoint

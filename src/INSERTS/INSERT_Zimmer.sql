@@ -1,7 +1,7 @@
 use krankenhaus;
 
 INSERT INTO zimmer(Stationsnummer, Zimmernummer, Anz_Betten, Belegte_Betten, Zimmertyp)
-VALUES(0,1,0,0, 'Verwaltung');
+VALUES(0,1,0,0, '');
 
 INSERT INTO zimmer(Stationsnummer, Zimmernummer, Anz_Betten, Belegte_Betten, Zimmertyp)
 VALUES(0,2,0,0, 'Verwaltung');
@@ -10,19 +10,19 @@ INSERT INTO zimmer(Stationsnummer, Zimmernummer, Anz_Betten, Belegte_Betten, Zim
 VALUES(1,1,4,0, 'Radiologie');
 
 INSERT INTO zimmer(Stationsnummer, Zimmernummer, Anz_Betten, Belegte_Betten, Zimmertyp)
-VALUES(1,1,4,2, 'Radiologie');
+VALUES(1,2,4,2, 'Radiologie');
 
 INSERT INTO zimmer(Stationsnummer, Zimmernummer, Anz_Betten, Belegte_Betten, Zimmertyp)
 VALUES(2,1,4,2, 'HNO');
 
 INSERT INTO zimmer(Stationsnummer, Zimmernummer, Anz_Betten, Belegte_Betten, Zimmertyp)
-VALUES(2,1,4,2, 'HNO');
+VALUES(2,2,4,2, 'HNO');
 
 INSERT INTO zimmer(Stationsnummer, Zimmernummer, Anz_Betten, Belegte_Betten, Zimmertyp)
 VALUES(3,1,4,2, 'Chirurgie');
 
 INSERT INTO zimmer(Stationsnummer, Zimmernummer, Anz_Betten, Belegte_Betten, Zimmertyp)
-VALUES(3,1,4,2, 'Chirurgie');
+VALUES(3,2,4,2, 'Chirurgie');
 
 INSERT INTO zimmer(Stationsnummer, Zimmernummer, Anz_Betten, Belegte_Betten, Zimmertyp)
 VALUES(4,1,4,2, 'Orthopädie');
