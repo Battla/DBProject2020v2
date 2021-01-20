@@ -1,4 +1,4 @@
 USE krankenhaus;
 SELECT *
 FROM angestellter
-WHERE Stellentyp = 'Pfleger' AND Nachname = 'Müller';
+WHERE Stellentyp = 'Pflege' AND Nachname = 'Müller';

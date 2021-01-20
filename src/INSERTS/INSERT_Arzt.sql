@@ -4,7 +4,6 @@ VALUES('Hannes', 'Kramer', 'Dr', 'Baumweg', 17, 49743, 'Arzt', 14, 1, '1988-05-1
 INSERT INTO arzt(PersonalSSN, Fachrichtung)
 VALUES(LAST_INSERT_ID(), 'Radiologie');
 
-
 INSERT INTO angestellter(Vorname, Nachname, Titel, Strasse, Hausnummer, PLZ, Stellentyp, Gehalt, Station, Geburtsdatum, EMail)
 VALUES('Rüdiger', 'Meyer', 'Dr', 'Wegstrasse', 65, 49746, 'Arzt', 13, 2, '1956-09-02', 'RMeyer@krankenhaus.de');
 INSERT INTO arzt(PersonalSSN, Fachrichtung)
