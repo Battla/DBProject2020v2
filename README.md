@@ -16,8 +16,8 @@ Bearbeitung der gestellten Aufgaben am Beispiel eines Krankenhauses
     - [x] Insert
     - [x] Queries
     - [x] Constrains / Foreign Key
-- [ ] Relationale Algebra
+- [x] Relationale Algebra
 - [x] Schemadiagramm
     - [x] Normalisierung
--[ ] JDBC
--[ ] PowerPoint
+-[x] JDBC
+-[x] PowerPoint
